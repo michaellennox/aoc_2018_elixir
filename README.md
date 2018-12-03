@@ -1,0 +1,3 @@
+# AOC2018
+
+A project to keep the solutions to the [Advent of Code 2018](https://adventofcode.com/2018) challenges.
